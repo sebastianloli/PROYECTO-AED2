@@ -1,0 +1,8 @@
+C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_bench.dir
+C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim.dir
+C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/edit_cache.dir
+C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_bench_autogen_timestamp_deps.dir
+C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_bench_autogen.dir
+C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim_autogen_timestamp_deps.dir
+C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim_autogen.dir

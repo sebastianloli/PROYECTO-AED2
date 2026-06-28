@@ -1,17 +1,10 @@
 #include <QApplication>
 #include "VentanaPrincipal.h"
 
-// ============================================================================
-//  main.cpp
-//  Punto de entrada de la aplicacion grafica (Qt). Crea la ventana principal,
-//  que a su vez contiene el lienzo de simulacion y los controles.
-//
-//  La comparacion experimental tambien puede ejecutarse desde aqui con el
-//  boton "Ejecutar benchmark", o de forma independiente con el ejecutable de
-//  consola 'quadtree_bench' (ver README).
-// ============================================================================
+//  Punto de entrada de la aplicacion grafica (Qt). Crea la ventana principal, que a su vez contiene el lienzo de simulacion y los controles.
 
-int main(int argc, char** argv) {
+int main(int argc, char **argv)
+{
     QApplication app(argc, argv);
     VentanaPrincipal ventana;
     ventana.resize(1100, 640);

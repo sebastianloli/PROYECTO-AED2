@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_bench_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -std=gnu++17 -o CMakeFiles\\quadtree_bench.dir\\quadtree_bench_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\build\\quadtree_bench_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_bench_autogen/mocs_compilation.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_bench.dir/quadtree_bench_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_bench_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -std=gnu++17 -o CMakeFiles\\quadtree_bench.dir\\src\\QuadTree.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\src\\QuadTree.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/src/QuadTree.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_bench.dir/src/QuadTree.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_bench_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -std=gnu++17 -o CMakeFiles\\quadtree_bench.dir\\src\\Simulacion.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\src\\Simulacion.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/src/Simulacion.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_bench.dir/src/Simulacion.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_bench_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -std=gnu++17 -o CMakeFiles\\quadtree_bench.dir\\src\\Benchmark.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\src\\Benchmark.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/src/Benchmark.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_bench.dir/src/Benchmark.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_bench_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -std=gnu++17 -o CMakeFiles\\quadtree_bench.dir\\src\\main_benchmark.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\src\\main_benchmark.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/src/main_benchmark.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_bench.dir/src/main_benchmark.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_sim_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -std=gnu++17 -o CMakeFiles\\quadtree_sim.dir\\quadtree_sim_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\build\\quadtree_sim_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_sim_autogen/mocs_compilation.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim.dir/quadtree_sim_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_sim_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -std=gnu++17 -o CMakeFiles\\quadtree_sim.dir\\src\\QuadTree.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\src\\QuadTree.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/src/QuadTree.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim.dir/src/QuadTree.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_sim_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -std=gnu++17 -o CMakeFiles\\quadtree_sim.dir\\src\\Simulacion.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\src\\Simulacion.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/src/Simulacion.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim.dir/src/Simulacion.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_sim_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -std=gnu++17 -o CMakeFiles\\quadtree_sim.dir\\src\\Benchmark.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\src\\Benchmark.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/src/Benchmark.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim.dir/src/Benchmark.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_sim_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -std=gnu++17 -o CMakeFiles\\quadtree_sim.dir\\qt\\LienzoSimulacion.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\qt\\LienzoSimulacion.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/qt/LienzoSimulacion.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim.dir/qt/LienzoSimulacion.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_sim_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -std=gnu++17 -o CMakeFiles\\quadtree_sim.dir\\qt\\VentanaPrincipal.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\qt\\VentanaPrincipal.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/qt/VentanaPrincipal.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim.dir/qt/VentanaPrincipal.cpp.obj"
+},
+{
+  "directory": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_sim_autogen/include -IC:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/include -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtGui -std=gnu++17 -o CMakeFiles\\quadtree_sim.dir\\qt\\main.cpp.obj -c C:\\Users\\sopor\\OneDrive\\Documentos\\2026UTEC\\AED\\PROYECTO-AED2\\qt\\main.cpp",
+  "file": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/qt/main.cpp",
+  "output": "C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/CMakeFiles/quadtree_sim.dir/qt/main.cpp.obj"
+}
+]

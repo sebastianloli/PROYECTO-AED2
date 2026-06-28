@@ -5,18 +5,16 @@
 class LienzoSimulacion;
 class QLabel;
 
-// ============================================================================
-//  VentanaPrincipal.h
 //  Ventana con el panel de controles (parametros configurables) a la izquierda
 //  y el lienzo de simulacion a la derecha. Conecta cada control con el lienzo.
-// ============================================================================
 
-class VentanaPrincipal : public QWidget {
+class VentanaPrincipal : public QWidget
+{
     Q_OBJECT
 public:
-    explicit VentanaPrincipal(QWidget* parent = nullptr);
+    explicit VentanaPrincipal(QWidget *parent = nullptr);
 
 private:
-    LienzoSimulacion* lienzo_ = nullptr;
-    QLabel*           panelMetricas_ = nullptr;
+    LienzoSimulacion *lienzo_ = nullptr;
+    QLabel *panelMetricas_ = nullptr;
 };

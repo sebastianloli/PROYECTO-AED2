@@ -4,28 +4,23 @@ project(QuadTreeParticulas LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Qt necesita estos automatismos para generar el codigo de moc/uic/rcc.
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
 include_directories(${CMAKE_SOURCE_DIR}/include)
 
-# ---- Nucleo puro (sin Qt): se usa tanto en la GUI como en el benchmark ----
 set(FUENTES_NUCLEO
     src/QuadTree.cpp
     src/Simulacion.cpp
     src/Benchmark.cpp
 )
 
-# ---- Ejecutable de consola para la comparacion experimental ----
-# Siempre se puede compilar, incluso en maquinas sin Qt instalado.
 add_executable(quadtree_bench
     ${FUENTES_NUCLEO}
     src/main_benchmark.cpp
 )
 
-# ---- Aplicacion grafica (Qt6). Solo se construye si Qt6 esta disponible ----
 find_package(Qt6 COMPONENTS Widgets QUIET)
 if (Qt6_FOUND)
     add_executable(quadtree_sim

@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_quadtree_bench_FILE C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_bench.exe)
+set(__QT_DEPLOY_TARGET_quadtree_bench_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_quadtree_bench_RUNTIME_DLLS )
+set(__QT_DEPLOY_TARGET_quadtree_sim_FILE C:/Users/sopor/OneDrive/Documentos/2026UTEC/AED/PROYECTO-AED2/build/quadtree_sim.exe)
+set(__QT_DEPLOY_TARGET_quadtree_sim_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_quadtree_sim_RUNTIME_DLLS C:/msys64/ucrt64/bin/Qt6Widgets.dll;C:/msys64/ucrt64/bin/Qt6Gui.dll;C:/msys64/ucrt64/bin/Qt6Core.dll)
