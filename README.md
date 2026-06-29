@@ -5,6 +5,11 @@ Implementa un **QuadTree desde cero** y lo aplica a un simulador 2D de partícul
 movimiento, detectando colisiones/vecinos cercanos. Incluye una comparación
 experimental contra la solución ingenua (fuerza bruta, O(n²)).
 
+Integrantes:
+- Sebastian Loli Gonzalez 202420022
+- Fernando Aguirre Milla 202420003
+- Gabriel Vaccaro Ortiz 202210358 
+
 ---
 
 ## 1. ¿Qué hace la aplicación?
@@ -166,17 +171,3 @@ promedio, candidatos por partícula y *speedup*.
 ./quadtree_bench 1000 5000 10000 20000 # tamaños personalizados
 ./quadtree_bench --frames 30 1000 5000 10000
 ```
-
----
-
-## 8. Datos
-
-La aplicación genera **datos sintéticos configurables**; no usa ningún dataset externo
-(permitido por el enunciado para la opción QuadTree).
-
----
-
-## 9. Autores
-
-Curso CS2023 — Algoritmos y Estructuras de Datos · UTEC.
-Repositorio: https://github.com/sebastianloli/PROYECTO-AED2
