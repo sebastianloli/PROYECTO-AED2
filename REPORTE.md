@@ -2,7 +2,6 @@
 
 **Proyecto 2 · CS2023 — Algoritmos y Estructuras de Datos**
 **Estructura asignada:** QuadTree (Opción A: Simulador de partículas 2D)
-**Integrantes:** _[completar nombres]_
 
 ---
 
@@ -36,12 +35,10 @@ métodos al aumentar el número de partículas y bajo distintas distribuciones e
 | Velocidad máxima | 1.0 |
 | Tamaño del mundo | 800 × 600 |
 | Lenguaje / estándar | C++17 |
-| Compilador | g++ (MSYS2 UCRT64) _[indicar versión: `g++ --version`]_ |
+| Compilador | g++ (MSYS2 UCRT64) |
 | Framework gráfico | Qt 6.11.0 |
 | Build | CMake + Ninja |
-| Sistema operativo | Windows _[versión]_ |
-| CPU | _[completar: modelo del procesador]_ |
-| RAM | _[completar]_ |
+| Sistema operativo | Windows |
 
 **Qué se mide en cada frame:** se mueven las partículas, se reconstruye el QuadTree
 (midiendo su tiempo de construcción), y se ejecutan la fuerza bruta y el QuadTree midiendo
@@ -138,8 +135,6 @@ Se eligieron 1.000, 5.000 y 10.000 partículas (los sugeridos por el enunciado) 
 el rango donde el comportamiento asintótico se hace evidente: con 1.000 la diferencia ya es
 notable (≈14x) y con 10.000 la fuerza bruta realiza ~100 millones de comparaciones por frame,
 volviéndose claramente impracticable en tiempo real, mientras el QuadTree se mantiene fluido.
-Tamaños mayores fueron limitados por _[ajustar según su máquina: la capacidad de la CPU/RAM
-para mantener la fuerza bruta en tiempos medibles dentro de la animación]_.
 
 ## 7. Conclusiones
 
