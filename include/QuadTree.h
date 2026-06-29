@@ -8,8 +8,7 @@
 //  Idea: cada nodo cubre una region rectangular. Si en esa region caben
 //  como maximo 'capacidad' particulas, se quedan en el nodo (hoja). Cuando
 //  se supera la capacidad, el nodo se SUBDIVIDE en 4 hijos (NO, NE, SO, SE)
-//  y reparte sus particulas. Asi, una consulta por region solo visita los
-//  cuadrantes que tocan la region buscada, evitando revisar todo el mundo.
+//  y reparte sus particulas.
 
 class QuadTree
 {
